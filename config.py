@@ -134,34 +134,18 @@ START_MENU_SEARCH_DIRS = [
 # Named folders you want to open by voice, e.g. "open projects folder".
 # Add your own — key is the spoken name, value is the full path.
 FOLDER_PATHS = {
-    "desktop": r"C:\Users\snagw\OneDrive\Desktop",
-    "chatbot": r"C:\Users\snagw\OneDrive\Desktop\chatbot",
-    "dsa": r"C:\Users\snagw\OneDrive\Desktop\Dsa_c",
-    "mental health chatbot": r"C:\Users\snagw\OneDrive\Desktop\Euron_Mental_Health_Chatbot",
-    "html": r"C:\Users\snagw\OneDrive\Desktop\HTML",
-    "html css js projects": r"C:\Users\snagw\OneDrive\Desktop\HTML-CSS-JS-PROJECTS-adc2d77224586bde6e846aa4e9bcc6027644e033",
-    "jarvis": r"C:\Users\snagw\OneDrive\Desktop\jarvis-ai-assistant-main",
-    "mam file": r"C:\Users\snagw\OneDrive\Desktop\mam_file",
-    "mini project": r"C:\Users\snagw\OneDrive\Desktop\my_mini_project",
-    "nova": r"C:\Users\snagw\OneDrive\Desktop\Nova",
-    "project 2": r"C:\Users\snagw\OneDrive\Desktop\project_2",
-    "project 3": r"C:\Users\snagw\OneDrive\Desktop\project_3",
+    
    
 }
 
 # Saved website shortcuts — say the name and NOVA opens the exact link.
 # Add more anytime: "spoken name": "full URL"
 WEBSITES = {
-    "linkedin": "https://www.linkedin.com/in/sona-gupta-260170338/",
-    "github new repo": "https://github.com/new",
-    "whatsapp": "https://web.whatsapp.com/",
-    "onedrive": "https://onedrive.live.com/?id=F8B8052791795195%21sf51363e6cd7243c6a593bb3926f79c4c&cid=F8B8052791795195",
-    "ai for all gmail": "https://mail.google.com/mail/u/1/#inbox",
-    "gmail": "https://mail.google.com/mail/u/0/?hl=en#inbox",
-    "youtube": "https://www.youtube.com/",
-    "colab": "https://colab.research.google.com/drive/1t5OmEbv75ypygQFn3PxLb3QoI_w606q3?usp=sharing",
-    "classroom": "https://classroom.google.com/c/Nzk4NDM2MDkzODU0",
-    "leetcode": "https://leetcode.com/problemset/",
+    "linkedin": 
+    "github new repo":
+    "whatsapp": 
+    "onedrive": 
+    "gmail": "
 }
 
 # Folder where voice-triggered screenshots get saved.
@@ -172,21 +156,5 @@ SCREENSHOTS_FOLDER = "screenshots"
 # IMPORTANT: WhatsApp Web (web.whatsapp.com) must already be logged in on your
 # default browser for message-sending to work.
 CONTACTS = {
-    "medhak": "+917906481308",
-    "princess": "+918864957355",
-    "panda": "+917409932252",
-    "maa": "+918650170993",
-    "papa 2": "+919725397854",
-    "papa": "+919316646697",
-    "muneem": "+918630443140",
-    "mona": "+919719214744",
-    "bhai": "+919389032622",
-    "ankit bhai": "+918273134502",
-    "deepa": "+918273964016",
-    "sher": "+917830671532",
-    "pawan": "+919837113680",
-    "bm sir": "+919389927877",
-    "chirag": "+919558443810",
-    "karishma": "+917417563930",
-    "sakshi": "+919389013105",
+    "sona"= "999*******"
 }
